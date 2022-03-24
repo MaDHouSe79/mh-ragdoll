@@ -1,3 +1,3 @@
 Config = {}
 
-Config.RagdollButton = 303
+Config.RagdollButton = 303 -- U
