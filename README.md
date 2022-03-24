@@ -1,4 +1,4 @@
-## QB-Ragdoll just a fun think to have in your server
+## QB-Ragdoll just a fun thing to have in your server
 
 ## Install 
 - copy the folder `qb-ragdoll` to `resources\[qb]`
